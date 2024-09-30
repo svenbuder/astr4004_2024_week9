@@ -4,7 +4,11 @@ Welcome to the teaching repository for **Week 9** of the course **ASTR4004/8004 
 
 ## Repository Contents
 
-### Slides for Week 9a
+### Slides for Week 9
+
+- **9a. Classification**  
+
+- **9b. Model Selection and Interdisciplenary Thinking (TBD)** 
 
 ### Jupyter Notebooks
 
